@@ -1,3 +1,6 @@
-.bg {
-	background: #666;
+@import 'includes/partials';
+
+body {
+	padding-left: $container-padding-xs;
+	padding-right: $container-padding-xs;
 }
