@@ -1,3 +1,7 @@
+h1, .h1, h2, .h2, h3, .h3 {
+	margin: 0;
+	margin-bottom: 1rem;
+}
 
 h2 {
 	margin-bottom: 34px;
@@ -5,4 +9,8 @@ h2 {
 
 .text-right {
 	text-align: right;
+}
+
+.text-max-width {
+	max-width: 600px;
 }
