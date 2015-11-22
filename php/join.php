@@ -41,7 +41,7 @@
 					<div class="join-sidebox">
 						<h3>First Name Sarah But Last Name Not Bichan?</h3>
 						<p> Apply to marry Cam Bichan </p>
-						<a href="https://www.facebook.com/cbichan" class="btn btn-default btn-lite-gold" target="_blank">View Cams profile</a>
+						<a href="https://www.facebook.com/cbichan" class="btn btn-default btn-lite-gold" target="_blank"	>View Cam's profile</a>
 					</div>
 				</div>
 			</div>
