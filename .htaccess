@@ -5,5 +5,5 @@ RewriteRule    ^about/?$    php/about.php    [NC,L]    # Handle requests for "ab
 
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /.htpasswd  
+AuthUserFile /home/sarahbic/public_html/.htpasswd  
 require valid-user
