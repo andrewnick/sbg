@@ -12,7 +12,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-6">
+			<div class="col-sm-7">
 
 				<h3> Requirements </h3>
 				<ol class="join-list">
@@ -45,7 +45,7 @@
 
 
 			</div>
-			<div class="col-sm-6">
+			<div class="col-sm-5">
 				<div class="join-sidebox">
 					<h3>Your name isn't Sarah Bichan?</h3>
 					<a href="http://www.dia.govt.nz/Services-Births-Deaths-and-Marriages-Changing-a-Name?OpenDocument#three" class="btn btn-default btn-lite-gold" target="_blank">Change your name</a>
