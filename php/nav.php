@@ -1,7 +1,7 @@
 <ul class="nav list-inline">
-	<li class="nav-item"> 	
+<!-- 	<li class="nav-item"> 	
 		<a href="/about">About</a>
-	</li>
+	</li> -->
 	<li class="nav-item">
 		<a href="/join">Join</a>		
 	</li>
