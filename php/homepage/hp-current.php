@@ -8,7 +8,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="profile">
-					<img class="img-responsive profile-image" src="images/SB2.png" alt="">
+					<img class="img-responsive profile-image" src="images/SB1.png" alt="">
 					<p class="profile-name">Sarah Bichan</p>
 					<p class="profile-bio">Blurb about Sarah</p>
 				</div>
