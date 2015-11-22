@@ -8,7 +8,9 @@
 			<div class="row join-spacer">
 				<div class="col-sm-12">
 					<h2>Join the Guild</h2>
-					<p class="text-max-width">If you want to join the guild simply fill out this form with your details and you will recieve an email about the next step to join.</p>
+					<p class="text-max-width">If you want to join The Guild simply fill out this form with your details and you will receive an email about the next step to join.</p>
+			</div>
+		</div>
 				</div>
 			</div>
 			<div class="row">
@@ -16,8 +18,21 @@
 
 					<h3> Requirements </h3>
 					<ol class="join-list">
-						<li>Your name must be Sarah Bichan</li>
+						<li>Your name must be Sarah Bichan.</li>
+						<li>
+							<p>Acceptance to the Guild is at the discretion of the Membership Panel. Their commitment to upholding the high standards of the Sarah Bichan Guild is unprecedented. It is not uncommon for applicants to be rejected several times before they meet the entry criteria.</p>
+							<p>Rejected applicants include:</p>
+							<ul>
+								<li>Sarah Jessica Parker</li>
+								<li>Sarah Michelle Gellar</li>
+								<li>Sarah Palin</li>
+								<li>Sarah Ferguson</li>
+								<li>Cam Bichan</li>
+							</ul>
+						</li>
 					</ol>
+
+
 					<form method="POST" action="" class="join-form">
 					  <div class="form-group">
 					    <label for="name">Name</label>
