@@ -12,7 +12,7 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-6">
-				<a class="btn btn-default btn-lite-gold btn-join" href="">Join the Guild</a>
+				<a class="btn btn-default btn-lite-gold btn-join" href="/sbg/join">Join the Guild</a>
 			</div>
 		</div>
 	</div>

@@ -1,7 +1,7 @@
 <div class="container hp-intro">
 	<div class="row">
 		<div class="col-sm-12">
-		Welcome to the Sarah Bichan Guild. We are a guild specializing in all things Sarah Bichan. Our guild has the highest number of Sarah Bichan members in the world. We are here to help members become the best Sarah Bichan they can be. We have various social events through out the year and distribute material helping the members become better Sarah Bichans.
+		Welcome to the Sarah Bichan Guild. We are an elite gathering of select Sarah Bichans who meet regularly to celebrate all that sets us apart. The Guild specialises in connecting Sarah Bichans and optimising their unique traits, for the benefit of our greater society and nation. We firmly believe in the transforming power of Sarah Bichans and do all we can to empower each individual to be a superior members of her, or his, community.
 		</div>
 	</div>
 </div>

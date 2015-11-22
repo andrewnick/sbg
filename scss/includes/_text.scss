@@ -14,3 +14,11 @@ h2 {
 .text-max-width {
 	max-width: 600px;
 }
+
+a {
+	color: $black;
+
+	&:hover {
+		color: $black;
+	}
+}

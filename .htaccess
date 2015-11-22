@@ -1,3 +1,4 @@
 RewriteEngine On    # Turn on the rewriting engine
-RewriteRule    ^join/?$    php/join/join.php    [NC,L]    # Handle requests for "join"
-RewriteRule    ^events/?$    php/events/events.php    [NC,L]    # Handle requests for "events"
+RewriteRule    ^join/?$    php/join.php    [NC,L]    # Handle requests for "join"
+RewriteRule    ^events/?$    php/events.php    [NC,L]    # Handle requests for "events"
+RewriteRule    ^about/?$    php/about.php    [NC,L]    # Handle requests for "about"

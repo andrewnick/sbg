@@ -14,6 +14,9 @@
 				<p>Here is a blurb that container interesting information about Sarah Bichan
 	Sarah is recently married to Tyler Bichan</p>
 				<p>Follow Sarahs Wedding Day twitter story at #Hashtag</p>
+				<a class="twitter-timeline" href="https://twitter.com/4Nicho1as" data-widget-id="660721837618270209">Tweets by @4Nicho1as</a>
+
+				<div id="instafeed"></div>
 			</div>
 		</div>
 	</div>

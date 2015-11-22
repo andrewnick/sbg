@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
+	<?php include 'php/head.php' ?>
 <body class="bg">
-<!-- 	<script type="text/javascript" src="bundle.js" charset="utf-8"></script> -->
-	<script src="http://localhost:8080/assets/css.bundle.js"></script>
-	<script src="http://localhost:8080/assets/js.bundle.js"></script>
 
 	<?php include 'php/header.php' ?>
 	<?php require_once ('php/homepage/hp.php'); ?>
 	<?php include 'php/footer.php' ?>
+
 </body>
+<script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'tagged',
+        tagName: 'awesome',
+        clientId: 'YOUR_CLIENT_ID'
+    });
+    feed.run();
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	
 </html>

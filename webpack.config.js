@@ -7,7 +7,7 @@ module.exports = {
 		css: "bootstrap-sass!./bootstrap-sass.config.js"
 	},
 	output: {
-		path: "./",
+		path: "./assets",
 		filename: "[name].bundle.js",
 		publicPath: "http://localhost:8080/assets/"
 	},

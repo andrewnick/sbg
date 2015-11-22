@@ -1,15 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
+	<?php include 'head.php' ?>
 <body class="bg">
-<!-- 	<script type="text/javascript" src="bundle.js" charset="utf-8"></script> -->
-	<script src="http://localhost:8080/assets/css.bundle.js"></script>
-	<script src="http://localhost:8080/assets/js.bundle.js"></script>
-
-	<?php include '../header.php' ?>
+	<?php include 'header.php' ?>
 	<section class="section-spacing">
 		<div class="container">
 			<div class="row join-spacer">
@@ -29,6 +22,6 @@
 		</div>
 	</section>	
 
-	<?php include '../footer.php' ?>
+	<?php include 'footer.php' ?>
 </body>
 </html>
