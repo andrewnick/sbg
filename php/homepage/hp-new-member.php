@@ -7,7 +7,7 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-2">
-				<img class="img-responsive hp-nm-image" src="images/mm.png" alt="">
+				<img class="img-responsive hp-nm-image" src="images/sarah-new.png" alt="">
 			</div>
 			<div class="col-sm-10">
 			<p>The Sarah Bichan Guild would like to warmly welcome their newest member, Sarah Bichan.</p>

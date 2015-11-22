@@ -18,7 +18,7 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
-						<p>Please keep in mind, acceptance to the Guild is at the discretion of the Membership Panel. Their commitment to upholding the high standards of the Sarah Bichan Guild is unprecedented. It is not uncommon for applicants to be rejected several times before they meet the entry criteria.</p>
+				<p>Please keep in mind, acceptance to the Guild is at the discretion of the Membership Panel. Their commitment to upholding the high standards of the Sarah Bichan Guild is unprecedented. It is not uncommon for applicants to be rejected several times before they meet the entry criteria.</p>
 				<p>Rejected applicants include:</p>
 				<ul>
 					<li>Sarah Jessica Parker</li>
