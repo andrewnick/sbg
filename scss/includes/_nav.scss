@@ -1,3 +1,6 @@
-nav {
-	
+.nav {
+	@include respond_max($device-width-xs) {
+		 display: flex;
+    	justify-content: space-between;	
+	}
 }

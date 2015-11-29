@@ -1,5 +1,8 @@
 .section-spacing {
-	padding: 60px 0px;
+	padding: 40px 0px;
+	@include respond($device-width-sm) {
+		padding: 60px 0px;
+	}
 }
 
 .section-dark {

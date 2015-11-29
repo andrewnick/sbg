@@ -1,5 +1,8 @@
 .header {
-	padding-top: 55px;
+	padding-top: 35px;
+	@include respond($device-width-md) {
+		padding-top: 55px;
+	}
 }
 
 .header-link {
@@ -13,6 +16,11 @@
 
 .header-right {
 	position: relative;
+
+	@include respond($device-width-md) {
+	    margin-top: -15px;
+	}
+
 	&:before {
 		content: '';
 		position: absolute;
