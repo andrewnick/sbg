@@ -19,6 +19,15 @@
 					<p>This year’s annual picnic outing was held at Stonyridge Vineyard on Waiheke Island. It was attended by Sarah Bichan, Sarah Bichan and the future Sarah Bichan. We enjoyed a delicate morning tea and played with Vortex Megahowlers. A great time was had by all. We look forward to our 2016 picnic with great anticipation.</p>
 				</div>
 			</div>
+			<div class="row join-spacer">
+				<div class="col-sm-4">
+					<img src="images/bichan-wedding.jpg" alt="" class="img img-responsive">
+				</div>
+				<div class="col-sm-8">
+					<h3>Annual Sarah Bichan Guild Picnic</h3>
+					<p>This year’s annual picnic outing was held at Stonyridge Vineyard on Waiheke Island. It was attended by Sarah Bichan, Sarah Bichan and the future Sarah Bichan. We enjoyed a delicate morning tea and played with Vortex Megahowlers. A great time was had by all. We look forward to our 2016 picnic with great anticipation.</p>
+				</div>
+			</div>
 		</div>
 	</section>	
 

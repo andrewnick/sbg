@@ -1,4 +1,8 @@
 .nav {
+	@include respond($device-width-sm) {
+		text-align: right;
+	}
+	text-align: right;
 	@include respond_max($device-width-xs) {
 		 display: flex;
     	justify-content: space-between;	

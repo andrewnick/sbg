@@ -12,7 +12,7 @@
     var feed = new Instafeed({
         get: 'tagged',
         tagName: 'awesome',
-        clientId: '1240a582951b452bbf6c03b0b454c927'
+        clientId: '7812cb34adbb40f69867d528cda99910'
     });
     feed.run();
 </script>
