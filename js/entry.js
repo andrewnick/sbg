@@ -1,9 +1,12 @@
 var content = require("./modules/content.js");
-// $("#join-form").submit( function(e){
-// 	e.preventDefault();
-// 	console.log($(this));
-// 	content.submit();
-// });
-$("form").submit(function(e){
-	e.preventDefault();
+
+$(window).load(function(){
+
+	console.log('content');
+
+	$("#ss-submit").on('click', function(e){
+		console.log('click');
+		content.submit();
+	});
 });
+

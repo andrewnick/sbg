@@ -16,9 +16,8 @@
 
 			<p>It speaks highly of the newest Sarah Bichan that she was so eager to join our ranks that she was even prepared to marry Tyler Bichan. We are most grateful for her sacrifice.</p>
 
-			<p>The WoolleyBichan wedding was a highlight on the Guild’s 2015 social calendar. Follow the story of her wedding day at #woolleywedsbichan on instagram. </p>
+			<p>The WoolleyBichan wedding was a highlight on the Guild’s 2015 social calendar. Follow the story of her wedding day at <a href="https://www.instagram.com/explore/tags/woolleywedsbichan/" class="insta-link">#woolleywedsbichan</a> on instagram. </p>
 
-<!-- 				<a class="twitter-timeline" href="https://twitter.com/4Nicho1as" data-widget-id="660721837618270209">Tweets by @4Nicho1as</a> -->
 
 				<div id="instafeed"></div>
 			</div>

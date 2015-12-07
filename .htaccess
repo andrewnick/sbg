@@ -3,7 +3,7 @@ RewriteRule    ^join/?$    php/join.php    [NC,L]    # Handle requests for "join
 RewriteRule    ^events/?$    php/events.php    [NC,L]    # Handle requests for "events"
 RewriteRule    ^about/?$    php/about.php    [NC,L]    # Handle requests for "about"
 
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile /home/sarahbic/public_html/.htpasswd  
-require valid-user
+#AuthType Basic  
+#AuthName "restricted area"  
+#AuthUserFile /home/sarahbic/public_html/.htpasswd  
+#require valid-user

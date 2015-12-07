@@ -31,7 +31,7 @@
 				</ol>
 
 
-				<form id="join-form" type="POST" class="join-form">
+				<form id="join-form" action="#" class="join-form">
 				  <div class="form-group">
 				    <label for="name">Name</label>
 				    <input type="text" name="name" class="form-control" id="name" placeholder="Name">
@@ -40,7 +40,7 @@
 				    <label for="email">Email</label>
 				    <input type="text" name="email" class="form-control" id="email" placeholder="Email">
 				  </div>
-				  <input type="submit" name="submit" value="Join" id="ss-submit" class="btn btn-default btn-lite-gold ">
+				  <button type="button" id="ss-submit" class="btn btn-default btn-lite-gold ">Join</button>
 				  <!-- <button type="submit" class="btn btn-default btn-lite-gold">Join</button> -->
 				</form>
 
