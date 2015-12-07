@@ -5,9 +5,7 @@
 	}
 }
 
-.footer-copyright {
-	font-size: 13px;
-}
+
 
 .footer-lines {
 	position: relative;
@@ -37,5 +35,13 @@
 	text-align: center;
 	@include respond($device-width-sm) {
 		margin: 28px 0px;
+	}
+
+	&.footer-copyright {
+		font-size: 13px;
+		@include respond($device-width-sm) {
+			margin-top: 40px;
+			text-align: left;
+		}
 	}
 }
