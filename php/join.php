@@ -31,7 +31,7 @@
 				</ol>
 
 
-				<form id="join-form" action="#" class="join-form">
+				<form id="join-form" action="#" class="join-form join-form-show">
 				  <div class="form-group">
 				    <label for="name">Name</label>
 				    <input type="text" name="name" class="form-control" id="name" placeholder="Name">
@@ -41,10 +41,11 @@
 				    <input type="text" name="email" class="form-control" id="email" placeholder="Email">
 				  </div>
 				  <button type="button" id="ss-submit" class="btn btn-default btn-lite-gold ">Join</button>
-				  <!-- <button type="submit" class="btn btn-default btn-lite-gold">Join</button> -->
 				</form>
-
-
+				<div class="join-message">
+					<h3>Thank you</h3>
+					<p>Thank you for your interest in joining the Sarah Bichan Guild. We will consider your application but don't hold your breath. Good luck. You are going to need it.</p>
+				</div>
 			</div>
 			<div class="col-sm-5">
 				<div class="join-sidebox">

@@ -19,4 +19,17 @@
 .join-form {
 	margin-top: 20px;
 	margin-bottom: 20px;
+
+	display: none;
+	&.join-form-show {
+		display: block;
+	}
+}
+
+.join-message {
+	display: none;
+	padding: 20px 0;
+	&.join-message-show {
+		display: block;
+	}
 }

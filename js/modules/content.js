@@ -11,9 +11,16 @@ module.exports = {
 			dataType: "xml",
 			statusCode: {
 				0: () => {
-					console.log('This worked');
+					this.successMessage();
+				},
+				200: () => {
+					this.successMessage();
 				}
 			}
 		});
+	},
+	successMessage: function() {
+		$('form').removeClass('join-form-show');
+		$('.join-message').addClass('join-message-show');
 	}
 };
