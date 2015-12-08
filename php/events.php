@@ -12,7 +12,7 @@
 			</div>
 			<div class="row join-spacer">
 				<div class="col-sm-4">
-					<img src="images/picnic.png" alt="" class="img img-responsive">
+					<img src="images/picnic.jpg" alt="" class="img img-responsive">
 				</div>
 				<div class="col-sm-8">
 					<h3>Annual Sarah Bichan Guild Picnic</h3>
