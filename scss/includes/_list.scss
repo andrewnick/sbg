@@ -1,7 +1,9 @@
 .list-inline {
 	li {
 		display: inline-block;
-		margin-bottom: 4px;
-    	margin-top: -4px;
+		@include respond($device-width-sm) {
+			margin-bottom: 4px;
+    		margin-top: -4px;
+    	}
 	}
 }
